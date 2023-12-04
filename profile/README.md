@@ -45,12 +45,11 @@ Sheepnap's protocol integrates smart contracts to facilitate a decentralized net
 <!-- TOC --><a name="why-sheepnap"></a>
 ## Why Sheepnap
 
-
-One of the problems that Sheepnap aims to solve is the lack of control and transparency service providers experience with traditional systems. By using blockchain technology, Sheepnap ensures that hosts have full control over their bookings and the ability to set their own terms. Furthermore, the blockchain system provides total transparency, ensuring that all transactions are traceable and that arbitrary prioritization in search results is not an issue.
+One of the problems that Sheepnap aims to solve is the lack of control and transparency service providers experience with traditional systems. By using blockchain technology, Sheepnap ensures that hosts and guests have full control over their bookings and the ability to set their own terms. Furthermore, the blockchain system provides total transparency, ensuring that all transactions are traceable and that arbitrary prioritization in search results is not an issue.
 
 A crucial point is that Sheepnap tackles the interoperability and compatibility issues among different GDSs. With Sheepnap, hosts create property contracts that are standardized and compatible with other platforms that follow the same protocol. This means that a property contract created in Sheepnap can be listed on any other compatible platform, eliminating the barriers and complexity associated with managing multiple listings on different systems.
 
-Finally, Sheepnap reduces the profit split that results from the chain of intermediaries in the traditional tourism industry. By removing the need for GDSs.
+Traditional Online Travel Agencies (OTAs) operate on a centralized model, where substantial revenue from bookings is retained by the agencies, often leading to diminished earnings for property owners and higher costs for guests. Sheepnap, in contrast, introduces a decentralized approach, redistributing these earnings back to its community of users and property owners.
 
 
 <!-- TOC --><a name="aims-for-full-decentralization"></a>
